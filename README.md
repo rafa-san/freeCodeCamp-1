@@ -1,6 +1,6 @@
 # freeCodeCamp - 1
 
-## Building a Cat Photo App
+## Cat Photo App
 
 Encontrei o **freeCodeCamp** em junho de 2023 e fiquei impressionado com a didática e a parte prática deste site.
 
